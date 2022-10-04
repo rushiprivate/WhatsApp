@@ -1,0 +1,213 @@
+.page_body {
+  float: left;
+  width: 429px;
+  height: 701px;
+  border: solid 1px #000;
+  border-radius: 25px;
+
+  
+}
+.page_body_background {
+  float: left;
+  width: 429px;
+  height: 100%;
+  border: solid 1px #000;
+  border-radius: 25px;
+  
+}
+.page_body .page_container {
+  float: left;
+  width: 363px;
+  margin-top: 73px;
+  margin-left: 33px;
+  margin-right: 33px;
+  margin-bottom: 31px;
+}
+.page_body .page_container .logo,
+.page_body .page_container .welcome {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.page_body .page_container .logo_1
+ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 47px;
+}
+.page_body .page_container .welcome {
+  margin-top: 65px;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.page_body .page_container .phone {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.page_body .page_container .otp {
+  margin-top: 19px;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+}
+.button {
+  
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top:31px ;
+  height:59px;
+  width:200px;
+  margin-left:41Spx ;
+  cursor: pointer;
+  background-color: #6DCE9A;
+  border-radius: 47px;
+}
+.text{
+  margin-top:77px;
+  margin-left: 33px;
+  margin-right: 33px;
+}
+ .facebook{
+  margin-left: 125px;
+  margin-right: 125px;
+  text-align: center;
+  margin-top: 59px;
+}
+.img{
+  width:429px;
+  margin-top:31px;
+  height:401px;
+  border-bottom-right-radius: 47px;
+  border-bottom-left-radius: 47px;
+
+}
+.images{
+  width:429px;
+  margin-top:31px;
+ 
+
+}
+
+  .person{
+    width:429px;
+    
+    border-top-right-radius: 47px;
+    border-top-left-radius: 47px;}
+
+
+.icon{
+  width:429px;
+}
+.image{
+  width:429px;
+  margin-top:31px;
+  border-bottom-right-radius: 47px;
+  border-bottom-left-radius: 47px;}
+
+  .bottom{
+   margin-top: 641px;
+    width:429px;
+    background-color: green;
+    height: 60px;
+    border-bottom-right-radius: 23px;
+    border-bottom-left-radius: 23px;}
+    
+      .span{
+        color:white;
+         float: left;
+         width: 20%;
+        margin-top: 13px;
+        
+        margin-left: 13px;
+        
+      }
+
+    
+
+
+   
+    
+.color{
+  background-color: #1A1515
+  100%
+  #C0972E
+  77.08%
+  #766028
+  100% 
+  #201701
+  0%;
+  height: 701px;
+  width: 429px;
+}
+.comunication{
+          float: left;
+          width: 429px;
+          height: 789px;
+          border: #000;
+          background-color: cornsilk;
+          
+}
+.sender{
+       float:left;
+       width:51%;
+       height:51px;
+       
+       background-color: lightgoldenrodyellow;
+       border-radius: 11px;
+}
+.receiver{
+  float:right;
+  width: 50%;
+  height: 51px;
+  margin-left: 102px;
+  
+
+       
+}
+
+.time{
+  float: right;
+   margin-right: 51px;
+   margin-top: 10px;
+  width: 10px;
+  line-height:  5px;
+  background-color: lightgoldenrodyellow;
+}
+.time1{
+  float: right;
+  margin-right: 51px;
+  margin-top: 10px;
+  width: 10px;
+ line-height: 5px;  
+}
+.chat_photos{
+         width:429px;
+         height: 101px;
+         border-top-left-radius: 23px;
+         border-top-right-radius:23px ;
+        
+}
+
+
+
+
+   
+   
+
+   

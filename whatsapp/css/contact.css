@@ -1,0 +1,218 @@
+.page_body {
+    float: left;
+    width: 429px;
+    height: 701px;
+    border: solid 1px #000;
+   
+    background-color: beige;}
+
+    .top_box{
+        width: 429px;
+        height: 81px;
+        left: 1100px;
+        top: 51px;
+        background: green;
+        padding-top: 17px;
+        
+    }
+    
+    .top_box span {
+        float: left;
+        margin-left: 11px;
+
+        
+        background-color: white;
+        padding: 10px;
+        border-radius: 16px;
+    }
+    
+    .top_box .logo {
+        padding-left: 11px;
+        
+        float: left;
+        
+        width: 199px;
+        height: 24px;
+        left: 1159px;
+        top: 91px;
+        padding-top: 5px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+    
+        color: #F5F5F5;
+        background: green;
+    }
+    
+    
+    .search {
+    
+    
+        float: right;
+        margin-top: 21px;
+        margin-right: 17px;
+        margin-left: 11px;
+        
+    
+    
+    
+        font-family: 'Inter';
+    
+    
+        font-size: 40px;
+        line-height: 21px;
+        color: white;
+        background: green;
+    
+    }
+
+
+    .receiver{
+        float:left;
+        width: 40%;
+        line-height: 30px;
+        margin-left: 13px;
+        background-color: white;
+
+        
+    }
+     .receiver.p{
+        background-color: white;
+        line-height: 30px;
+    }
+    .time{
+        float:left;
+        
+        width:10%;
+        line height: 3px;
+        margin-top: 13px;
+        background-color: white;  
+    }
+    .time.p{
+        background-color: white;
+        line-height: 3px;
+    }
+    .sender{
+        float:left;
+        width: 40%;
+        line-height: 30px;
+        margin-left: 13px;
+        background-color:  #CDF5BE;
+    }
+    .sender.p{
+        background-color: #CDF5BE;
+        line-height: 30px;
+    }
+    
+    .time_1{
+        float:right;
+        width:10%;
+        line height: 3px;
+        margin-top: 13px;
+        background-color:  #CDF5BE;
+        
+        
+    }
+    .li{
+        background-color: white;
+    }
+    .float{
+        float:left;
+        width: 100%;
+        margin-top: 13px;
+    }
+    .right{
+        float:left;
+        width:40%;
+        margin-top: 13px;
+    
+    }
+    .float_left{
+        float:left;
+        width:51%;
+        background-color: white;
+        border-radius: 21px;
+    }
+    .float_right{
+        float:right;
+        width:50%;
+        background-color:  #CDF5BE;
+        border-radius: 21px;
+    }
+
+    .bottom{
+        float: left;
+        margin-top: 79px;
+        text-align: center;
+        background-color: white;
+        height: 61px;
+        width: 80%;
+        margin-left: 4px;
+        border-radius: 19px;
+    }
+    
+    .span{
+        float: left;
+        width: 20%;
+        margin-top: 13px;
+
+     }
+     .camera{
+        float: right;
+        width: 20%;
+        margin-top: 13px;
+
+     }
+     .mike{
+        float: right;
+        width: 17%;
+        margin-top: 76px;
+        background-color: green;
+        text-align: center;
+        margin-right: 3px;
+        height: 51px;
+        border-radius: 44px;
+        padding-top: 20px;
+
+     }
+     .inr{
+        float: left;
+        width: 20%;
+        margin-top: 13px;
+        margin-left: 30px;
+
+     }
+    
+    .end{
+        float:left;
+        width: 30%;
+        margin-top: 13px;
+        
+    }
+    .button {
+        border: white;
+    }
+    input[type=text], input[type=password] { 
+        width: 100%; 
+        
+        padding: 12px 20px; 
+        display: inline-block; 
+        border: 2px solid white; 
+        box-sizing: border-box; 
+        color: #000;
+    }
+    .last{
+        width: 100%;
+        float: left;
+
+
+    }
+    
+    
+    
+    
+    
+    
+      
